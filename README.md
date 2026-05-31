@@ -46,7 +46,11 @@
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| 🌐 **UHLIS** | Unified Agentic Health & Life Intelligence System. A multimodal AI ecosystem. | Python, AI Modules |
+| 🧠 **Silent Signal** | AI-driven mental health ecosystem using remote photoplethysmography (rPPG) and an Agentic Neural Mesh for stress detection and voice-enabled AI interventions. | Python, Edge AI, APIs |
+| 🚀 **DevLeap AI** | An AI-driven competitive programming and automated interview preparation platform. | React, Node.js, MongoDB, Keras |
+| 📊 **Revbase** | A lightweight version control and repository management platform (mini-Git). | React, Node.js, MongoDB |
+| 👁️ **SleepLens** | AI diagnostic platform for detecting sleep disorders and recommending personalized treatments and medical solutions. | ML, Full-Stack |
+| 🌐 **UHLIS** | Unified Agentic Health & Life Intelligence System. A multimodal AI ecosystem mapping core health data to autonomous action engines. | Python, AI Modules |
 | 🌾 **SmartAgro** | AI-powered agriculture support platform for crop recommendation and disease detection. | ML, Full-Stack |
 | 🛒 **ourkart** | A premium, scalable e-commerce platform featuring a modern UI and secure backend. | MERN Stack |
 | 🧑‍🌾 **NASA Farm Navigators** | Interactive educational farming dashboard built with real-world data APIs. | Unity, REST APIs |
@@ -67,11 +71,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akj1002&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-<br>
-
-<div align="center">
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Akj1002&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
