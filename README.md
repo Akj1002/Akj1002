@@ -1,31 +1,38 @@
+<!-- Animated Gradient Header -->
 <div align="center">
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Abhinav+Kumar+Jha+👋;Machine+Learning+Engineer;Full-Stack+MERN+Developer;Building+AI+for+Impact" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Abhinav%20Kumar%20Jha&fontSize=50&fontAlignY=35&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
 </div>
 
-<p align="center">
-  <em>Passionate about crafting premium, high-end user interfaces and backing them up with robust, intelligent architectures. From training complex CNNs to deploying seamless web applications, I focus on building systems that solve real-world problems.</em>
-</p>
+<br>
+
+<div align="center">
+  <i>Passionate about crafting premium, high-end user interfaces and backing them up with robust, intelligent architectures. From training complex CNNs to deploying seamless web applications, I focus on building systems that solve real-world problems.</i>
+</div>
+
+<br>
 
 ---
 
-### ⚡ What I Do
+<div align="center">
 
-- 💻 **Academics:** 3rd-Year Computer Science & Engineering (Data Science) student at SRM IST.
-- 🚀 **Roles:** Team Lead & ML Engineer specializing in full-stack AI integrations.
-- 🏆 **Competitions:** Active competitor in high-level hackathons (Microsoft Imagine Cup, Smart India Hackathon).
-- 🤝 **Focus:** Constantly collaborating on technical projects, pushing for clean code, and world-class design.
+### 👨‍💻 About Me
+
+**🎓 Academics:** 3rd-Year Computer Science & Engineering (Data Science) @ SRM IST.
+**🚀 Focus:** Seamless backend integrations (MERN/FastAPI) & Predictive Modeling.
+**🤝 Collaboration:** Always pushing for clean code and world-class design aesthetics.
+**🏆 Milestones:** Active competitor in the Microsoft Imagine Cup & Smart India Hackathon.
+
+</div>
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ The Tech Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <br><br>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -35,27 +42,36 @@
 
 ---
 
-### 🚀 Featured Architecture & Projects
+### 🚀 High-Level Architecture & Projects
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| **UHLIS** | Unified Agentic Health & Life Intelligence System. A multimodal AI ecosystem. | Python, AI Modules |
-| **SmartAgro** | AI-powered agriculture support platform for crop recommendation and disease detection. | ML, Full-Stack |
-| **ourkart** | A premium, scalable e-commerce platform featuring a modern UI and secure backend. | MERN Stack |
-| **NASA Farm Navigators** | Interactive educational farming dashboard built with real-world data APIs. | Unity, REST APIs |
+| 🌐 **UHLIS** | Unified Agentic Health & Life Intelligence System. A multimodal AI ecosystem. | Python, AI Modules |
+| 🌾 **SmartAgro** | AI-powered agriculture support platform for crop recommendation and disease detection. | ML, Full-Stack |
+| 🛒 **ourkart** | A premium, scalable e-commerce platform featuring a modern UI and secure backend. | MERN Stack |
+| 🧑‍🌾 **NASA Farm Navigators** | Interactive educational farming dashboard built with real-world data APIs. | Unity, REST APIs |
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abhinav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Akj1002&color=00FF99&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Akj1002&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
