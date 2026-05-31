@@ -16,12 +16,27 @@
 
 <div align="center">
 
-### 👨‍💻 About Me
+### 🧩 Developer Pulse
 
-**🎓 Academics:** 3rd-Year Computer Science & Engineering (Data Science) @ SRM IST.
-**🚀 Focus:** Seamless backend integrations (MERN/FastAPI) & Predictive Modeling.
-**🤝 Collaboration:** Always pushing for clean code and world-class design aesthetics.
-**🏆 Milestones:** Active competitor in the Microsoft Imagine Cup & Smart India Hackathon.
+This dashboard provides a reliable snapshot of my current tech ecosystem and development activity.
+
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <b>🧱 Key Project Milestones</b> <br>
+      🏆 Imagine Cup Competitor <br>
+      🏆 Smart India Hackathon Competitor <br>
+      <img src="https://img.shields.io/badge/Milestones-4/5-FF7A00?style=flat-square" />
+    </td>
+    <td align="center" width="45%">
+      <b>💻 Tech Proficiency</b> <br>
+      🟩 MERN Stack Engineering <br>
+      🟩 FastAPI Integration <br>
+      🟩 CNN & Predictive Modeling <br>
+      <img src="https://img.shields.io/badge/Stack-95%25-FF7A00?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -57,39 +72,22 @@
 | 🧑‍🌾 **NASA Farm Navigators** | Interactive educational farming simulation built with real-world data APIs. | Unity, REST APIs |
 
 ---
-### 📈 Dynamic Analytics & Activity
 
-<!-- Dynamic GitHub Trophies (Cache Busted) -->
+### 📈 Language Pulse & Development Graph
+
+<p align="center">
+  <b>Top Language Mix (Visually Guaranteed)</b> <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="25%" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="25%" />
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" width="20%" />
+</p>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akj1002&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0D1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
 
-<!-- Fluid Grid for Stats & Streak without tables -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00&cache_seconds=86400&v=1" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&v=1" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<!-- Visual Donut Chart for Top Languages (Cache Busted) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=donut&theme=dark&hide_border=true&title_color=FF7A00&text_color=FFFFFF&cache_seconds=86400&v=1" alt="Top Languages Donut Chart" />
-</div>
-
-<br>
-
-<!-- Dynamic Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0D1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
-</div>
-
-<br>
-
-<!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Akj1002&color=FF7A00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
