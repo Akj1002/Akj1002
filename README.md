@@ -61,14 +61,14 @@
 ### 📈 Dynamic Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=ff7a00&fire=ff7a00&currStreakLabel=ff7a00" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=ff7a00&fire=ff7a00&currStreakLabel=ff7a00" alt="GitHub Streak" width="50%" />
 </div>
 
 <br>
 
+<!-- 3D Isometric Commit Calendar -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=compact&theme=dark&hide_border=true&title_color=FF7A00&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://metrics.lecoq.io/Akj1002?template=classic&isocalendar=yes&isocalendar.duration=half-year&config_timezone=Asia%2FCalcutta&base=none" alt="Isometric Commit Calendar" width="100%" />
 </div>
 
 <br>
