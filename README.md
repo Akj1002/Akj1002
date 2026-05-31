@@ -55,20 +55,20 @@
 
 ### 📈 GitHub Analytics & Activity
 
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <br>
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=Akj1002&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
 <br>
 
 <div align="center">
