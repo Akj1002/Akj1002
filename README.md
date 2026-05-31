@@ -60,19 +60,42 @@
 
 ### 📈 Dynamic Analytics & Activity
 
+<!-- Dynamic GitHub Trophies -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=ff7a00&fire=ff7a00&currStreakLabel=ff7a00" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akj1002&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br>
 
+<!-- Locked Grid for Stats & Streak to prevent layout breaking -->
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Visual Donut Chart for Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=donut&theme=dark&hide_border=true&title_color=FF7A00&text_color=FFFFFF" alt="Top Languages Donut Chart" />
+</div>
+
+<br>
+
+<!-- Dynamic Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0D1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
 
+<!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Akj1002&color=FF7A00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
