@@ -57,40 +57,34 @@
 | 🧑‍🌾 **NASA Farm Navigators** | Interactive educational farming simulation built with real-world data APIs. | Unity, REST APIs |
 
 ---
-
 ### 📈 Dynamic Analytics & Activity
 
-<!-- Dynamic GitHub Trophies -->
+<!-- Dynamic GitHub Trophies (Cache Busted) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akj1002&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akj1002&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
 </div>
 
 <br>
 
-<!-- Locked Grid for Stats & Streak to prevent layout breaking -->
+<!-- Fluid Grid for Stats & Streak without tables -->
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00&cache_seconds=86400&v=1" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akj1002&theme=dark&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&v=1" alt="GitHub Streak" width="48%" />
 </div>
 
-<!-- Visual Donut Chart for Top Languages -->
+<br>
+
+<!-- Visual Donut Chart for Top Languages (Cache Busted) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=donut&theme=dark&hide_border=true&title_color=FF7A00&text_color=FFFFFF" alt="Top Languages Donut Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=donut&theme=dark&hide_border=true&title_color=FF7A00&text_color=FFFFFF&cache_seconds=86400&v=1" alt="Top Languages Donut Chart" />
 </div>
 
 <br>
 
 <!-- Dynamic Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0D1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0D1117&color=ff7a00&line=ff7a00&point=ffffff&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
