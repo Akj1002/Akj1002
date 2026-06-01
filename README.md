@@ -1,23 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--   ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗            -->
-<!--   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝            -->
-<!--   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗              -->
-<!--   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝              -->
-<!--   ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗            -->
-<!--   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝           -->
-<!--                                                                    -->
-<!--   Abhinav Kumar Jha — GitHub Profile README                        -->
-<!--   Version 3.0 | The Definitive Edition                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-
-<!-- ──────────────────── ANIMATED HEADER BANNER ──────────────────── -->
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:203a43,100:2c5364&height=240&section=header&text=Abhinav%20Kumar%20Jha&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=ML%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Researcher&descSize=18&descFontColor=94a3b8&descAlignY=62&animation=fadeIn" />
 </div>
-
-<!-- ──────────────────────── TYPING HEADLINE ─────────────────────── -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -26,8 +9,6 @@
 </div>
 
 <br/>
-
-<!-- ─────────────────────── QUICK STATS ROW ──────────────────────── -->
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Akj1002?label=Followers&style=social" alt="followers" />
@@ -39,8 +20,6 @@
 
 <br/>
 
-<!-- ───────────────────────── AVAILABILITY ───────────────────────── -->
-
 <div align="center">
   <a href="mailto:abhinavkrjhamzp@gmail.com">
     <img src="https://img.shields.io/badge/🟢_Open_to_SDE_Internships-0ea5e9?style=for-the-badge&logoColor=white" />
@@ -51,63 +30,21 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 1 — ABOUT (Two-Column Layout)                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 👋 About Me
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td valign="top" width="55%">
+[cite_start]I am a **3rd-year B.Tech Data Science student** at **SRM IST, Ghaziabad** [cite: 3, 5][cite_start], operating at the intersection of deep learning research and scalable full-stack software systems[cite: 12]. [cite_start]I specialize in translating advanced machine learning models into high-performance, production-ready applications[cite: 1, 13].
 
-### 👋 &nbsp;Who Am I?
+> [cite_start]**Core Focus:** Multimodal Deep Learning [cite: 74] [cite_start]• Agentic AI Systems [cite: 13, 21] [cite_start]• Full-Stack Engineering [cite: 12]  
+> [cite_start]**Active Target:** Open to SDE & Machine Learning Internships [cite: 1]
 
-I'm a **3rd-year B.Tech Data Science student** at SRM IST, Ghaziabad who obsessively sits at the intersection of deep learning research and production-grade software engineering.
-
-When I'm not training neural networks, I'm architecting MERN systems that ship. When I'm not shipping, I'm competing — and winning.
-
-> *"Intelligence engineered. Products shipped. Repeat."*
-
-**Currently building:**
-- 🧠 **Silent Signal** — rPPG + Hybrid Neural Architecture for real-time mental health monitoring *(Imagine Cup 2026)*
-- 🌐 **UHLIS** — Agentic AI health intelligence platform
-
-**Looking for:** SDE Internships where I can build things that matter.
-
-    </td>
-    <td valign="top" width="5%"></td>
-    <td valign="top" width="40%" align="center">
-
-<br/>
-
-```yaml
-Name    : Abhinav Kumar Jha
-Role    : ML Engineer + Full-Stack Dev
-From    : India 🇮🇳
-School  : SRM IST, Ghaziabad
-Year    : 3rd Year (Data Science)
-Focus   :
-  - Multimodal Deep Learning
-  - Agentic AI Systems
-  - Full-Stack Engineering
-Open To :
-  - SDE Internships
-  - Research Collabs
-  - Open Source
-```
-
-  </td>
-  </tr>
-</table>
+- [cite_start]🧠 **Silent Signal** — Architecting a hybrid neural framework utilizing rPPG technology for real-time mental health diagnostics *(Selected for Microsoft Imagine Cup 2026)*[cite: 17, 21, 22, 52].
+- [cite_start]🌐 **UHLIS** — Developing an agentic, distributed medical health ecosystem built with the MERN stack and TensorFlow[cite: 8, 9, 10, 13].
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 2 — ACHIEVEMENTS (The Social Proof)                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏅 &nbsp;Career Highlights
+<h2>🏅 &nbsp;Career Highlights</h2>
 
 <div align="center">
 
@@ -115,19 +52,19 @@ Open To :
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Microsoft-Imagine_Cup_2026-00a4ef?style=for-the-badge&logo=microsoft&logoColor=white"/><br/>
-      <sub><b>🏆 Selected Competitor</b><br/>Silent Signal AI</sub>
+      [cite_start]<sub><b>🏆 Selected Competitor</b><br/>Silent Signal AI [cite: 17, 52]</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/NASA-Space_Apps_2025-e03c31?style=for-the-badge&logo=nasa&logoColor=white"/><br/>
-      <sub><b>🚀 Top 15 Global Finalist</b><br/>Farm Navigators</sub>
+      <sub><b>🚀 Top 15 Global Finalist</b><br/>Farm Navigators [cite: 33, 56]</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Amazon-ML_Challenge_2025-ff9900?style=for-the-badge&logo=amazon&logoColor=white"/><br/>
-      <sub><b>📦 Top Percentile</b><br/>Multimodal Deep Learning</sub>
+      <sub><b>📦 Top Percentile</b><br/>Multimodal Deep Learning [cite: 74]</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Research-Publication-6366f1?style=for-the-badge&logo=googlescholar&logoColor=white"/><br/>
-      <sub><b>📝 Peer Reviewed</b><br/>ML Predictive Analytics</sub>
+      <sub><b>📝 Peer Reviewed</b><br/>ML Predictive Analytics [cite: 43]</sub>
     </td>
   </tr>
 </table>
@@ -138,11 +75,7 @@ Open To :
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 3 — TECH STACK (Clean & Grouped)                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack
+<h2>🛠️ &nbsp;Tech Stack</h2>
 
 <div align="center">
 
@@ -183,11 +116,7 @@ Open To :
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 4 — PROJECTS (Showcase)                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
+<h2>🚀 &nbsp;Featured Projects</h2>
 
 <div align="center">
 <table>
@@ -195,23 +124,23 @@ Open To :
 <td width="50%" valign="top">
 
 ### 🧠 Silent Signal AI
-> *Microsoft Imagine Cup 2026 — Selected Competitor*
+> [cite_start]*Microsoft Imagine Cup 2026 — Selected Competitor [cite: 17, 52]*
 
-Real-time mental health monitoring using **rPPG** (remote photoplethysmography) and a Hybrid Neural Architecture. Detects physiological stress signals through a standard webcam — no wearables needed.
+[cite_start]Real-time mental health monitoring using **rPPG** (remote photoplethysmography) and a Hybrid Neural Architecture[cite: 21, 22]. [cite_start]Detects physiological stress signals through a standard webcam — no wearables needed[cite: 22].
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&omegaColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛰️ NASA Farm Navigators
-> *NASA Space Apps 2025 — Top 15 Global Finalist*
+> [cite_start]*NASA Space Apps 2025 — Top 15 Global Finalist [cite: 33, 56]*
 
-Geospatial dashboard processing **NASA satellite imagery** for climate-smart precision farming. Delivers crop yield forecasts, drought alerts, and soil health insights to farmers using real-time satellite data.
+[cite_start]Geospatial dashboard processing **NASA satellite imagery** for climate-smart precision farming[cite: 36, 37]. [cite_start]Delivers crop yield forecasts, drought alerts, and soil health insights to farmers using real-time satellite data[cite: 36, 37].
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -224,9 +153,9 @@ Geospatial dashboard processing **NASA satellite imagery** for climate-smart pre
 <td width="50%" valign="top">
 
 ### 👁️ SleepLens
-> *Clinical-grade Sleep Apnea Detection*
+> [cite_start]*Clinical-grade Sleep Apnea Detection [cite: 26]*
 
-Analyzes raw ECG signals using an XGBoost + Deep Learning ensemble to detect sleep apnea events with clinical-grade sensitivity. Processes multi-channel physiological data to produce actionable sleep health reports.
+[cite_start]Analyzes raw ECG signals using an XGBoost + Deep Learning ensemble to detect sleep apnea events with clinical-grade sensitivity[cite: 26, 29, 30]. [cite_start]Processes multi-channel physiological data to produce actionable sleep health reports[cite: 29, 31].
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -236,10 +165,10 @@ Analyzes raw ECG signals using an XGBoost + Deep Learning ensemble to detect sle
 </td>
 <td width="50%" valign="top">
 
-### 🌐 UHLIS
+### [cite_start]🌐 UHLIS [cite: 8]
 > *Universal Health & Lifestyle Intelligence System*
 
-Agentic AI workflows for predictive disease analysis across patient cohorts. Combines MERN stack with Python ML models to deliver personalized health intelligence at scale.
+[cite_start]Agentic AI workflows for predictive disease analysis across patient cohorts[cite: 13]. [cite_start]Combines MERN stack with Python ML models to deliver personalized health intelligence at scale[cite: 9, 10, 13].
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -283,11 +212,7 @@ A lightweight, file-system-level version control platform built from the ground 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 5 — GITHUB STATS (Premium Layout)                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics
+<h2>📊 &nbsp;GitHub Analytics</h2>
 
 <div align="center">
 
@@ -310,11 +235,7 @@ A lightweight, file-system-level version control platform built from the ground 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 6 — TROPHIES                                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
+<h2>🏆 &nbsp;GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akj1002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
@@ -324,11 +245,7 @@ A lightweight, file-system-level version control platform built from the ground 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 7 — ACTIVITY GRAPH                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;Contribution Activity
+<h2>📈 &nbsp;Contribution Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&area_color=38bdf820&hide_border=true&custom_title=Abhinav's%20Contribution%20Graph" width="100%"/>
@@ -338,21 +255,11 @@ A lightweight, file-system-level version control platform built from the ground 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 8 — 3D CONTRIBUTION GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp;3D Contribution Graph
+<h2>🌐 &nbsp;3D Contribution Graph</h2>
 
 <div align="center">
 
-> ⚙️ **Setup required:** After running the [3D Contrib Action](https://github.com/yoshi389111/github-profile-3d-contrib), uncomment and use the line below:
-
-<!--
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
--->
-
-*Run the GitHub Action in [`.github/workflows/profile-3d.yml`](.github/workflows/profile-3d.yml) to generate your 3D graph, then remove this comment.*
 
 </div>
 
@@ -360,18 +267,12 @@ A lightweight, file-system-level version control platform built from the ground 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 9 — CONTRIBUTION SNAKE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
+<h2>🐍 &nbsp;Contribution Snake</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Akj1002/Akj1002/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Akj1002/Akj1002/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akj1002/Akj1002/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akj1002/Akj1002/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Akj1002/Akj1002/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
@@ -380,38 +281,7 @@ A lightweight, file-system-level version control platform built from the ground 
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 10 — COMPETITIVE PROGRAMMING                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚔️ &nbsp;Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/Akj1002">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-</a>&nbsp;
-<a href="https://codeforces.com/profile/Akj1002">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.codechef.com/users/Akj1002">
-  <img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.hackerrank.com/Akj1002">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 11 — CONNECT                                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Connect With Me
+<h2>🤝 &nbsp;Connect With Me</h2>
 
 <div align="center">
 
@@ -434,10 +304,6 @@ A lightweight, file-system-level version control platform built from the ground 
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   FOOTER                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" width="80%"/>
