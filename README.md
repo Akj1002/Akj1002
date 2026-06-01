@@ -246,25 +246,14 @@ A lightweight, file-system-level version control platform built from the ground 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 5 — GITHUB STATS (Premium Layout)                     -->
+<!--   SECTION 5 — GITHUB STATS (Stable Metrics Layout)              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>📊 &nbsp;GitHub Analytics</h2>
 
 <div align="center">
-
-<a href="https://github.com/Akj1002">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Akj1002&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&count_private=true&include_all_commits=true&hide=issues,prs,contribs&rank_icon=github&show=reviews" alt="Stats"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akj1002&layout=donut&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&langs_count=6" alt="Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Akj1002&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&stroke=38bdf830" width="60%" alt="Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Akj1002&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&stroke=38bdf830" width="65%" alt="Streak"/>
   </a>
 </div>
 
@@ -273,21 +262,7 @@ A lightweight, file-system-level version control platform built from the ground 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 6 — TROPHIES                                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>🏆 &nbsp;GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akj1002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 7 — ACTIVITY GRAPH                                    -->
+<!--   SECTION 6 — ACTIVITY GRAPH                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>📈 &nbsp;Contribution Activity</h2>
@@ -298,24 +273,9 @@ A lightweight, file-system-level version control platform built from the ground 
 
 <br/>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 8 — 3D CONTRIBUTION GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2>🌐 &nbsp;3D Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akj1002/Akj1002/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Graph" />
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 9 — CONTRIBUTION SNAKE                                -->
+<!--   SECTION 7 — CONTRIBUTION SNAKE                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>🐍 &nbsp;Contribution Snake</h2>
@@ -333,7 +293,7 @@ A lightweight, file-system-level version control platform built from the ground 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   SECTION 10 — CONNECT                                           -->
+<!--   SECTION 8 — CONNECT                                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2>🤝 &nbsp;Connect With Me</h2>
@@ -379,4 +339,3 @@ A lightweight, file-system-level version control platform built from the ground 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,60:203a43,100:0d1117&height=120&section=footer" alt="Footer" />
 </div>
-```
