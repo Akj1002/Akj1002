@@ -18,10 +18,10 @@
 
 ### 👨‍💻 About Me
 
-**🎓 Academics:** 3rd-Year Computer Science & Engineering (Data Science) @ SRM IST.
+**🎓 Academics:** 3rd-Year Computer Science & Engineering (Data Science) @ SRM IST, Ghaziabad.
 **🚀 Focus:** Seamless backend integrations (MERN/FastAPI) & Predictive Modeling.
-**🤝 Collaboration:** Always pushing for clean code and world-class design aesthetics.
-**🏆 Milestones:** Active competitor in the Microsoft Imagine Cup & Smart India Hackathon.
+**🏆 Achievements:** Top 15 at NASA Space Apps 2025 & Top Percentile in Amazon ML Challenge 2025.
+**📝 Publications:** Authored a paper on "Optimizing Supply Chain Management Using ML Based Predictive Analytics".
 
 </div>
 
@@ -31,8 +31,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI" />
   <br><br>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
@@ -47,14 +49,24 @@
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| 🧠 **Silent Signal** | AI mental health ecosystem utilizing remote photoplethysmography (rPPG) and an Agentic Neural Mesh for stress detection. | Python, Edge AI, APIs |
+| 🧠 **Silent Signal** | AI mental health ecosystem utilizing rPPG & a Hybrid Neural Architecture. Selected for Microsoft Imagine Cup 2026. | React.js, FastAPI, Gemini, Azure AI |
+| 👁️ **SleepLens** | AI monitoring system analyzing ECG signals for Sleep Apnea detection. | Python, XGBoost, Deep Learning |
+| 🌐 **UHLIS** | Health intelligence platform with agentic AI workflows for predictive disease analysis. | MERN Stack, Python, TensorFlow |
+| 🧑‍🌾 **NASA Farm Navigators** | Interactive geospatial dashboard processing NASA satellite imagery for climate-smart farming. | Python, NASA API, React.js |
 | 🚀 **DevLeap AI** | Intelligent competitive programming and automated interview preparation platform. | React, Node.js, MongoDB, Keras |
-| 👁️ **SleepLens** | AI diagnostic platform for detecting sleep disorders and recommending personalized medical solutions. | ML, Full-Stack |
 | 📊 **Revbase** | A lightweight, highly efficient version control and repository management platform (mini-Git). | React, Node.js, MongoDB |
-| 🌐 **UHLIS** | Unified Agentic Health & Life Intelligence System mapping core health data to autonomous action engines. | Python, AI Modules |
 | 🛒 **ourkart** | Premium, scalable e-commerce platform featuring a modern UI and secure backend processing. | MERN Stack |
 | 🌾 **SmartAgro** | Automated agriculture support platform for real-time crop recommendation and disease detection. | ML, Full-Stack |
-| 🧑‍🌾 **NASA Farm Navigators** | Interactive educational farming simulation built with real-world data APIs. | Unity, REST APIs |
+
+---
+
+### 🏅 Hackathons & Certifications
+
+- 🏆 **Microsoft Imagine Cup 2026:** Selected competitor for "Silent Signal" using Google Gemini and Azure AI for proactive crisis intervention.
+- 🚀 **NASA Space Apps Challenge 2025:** Top 15 Global Finalist for designing a geospatial data visualization tool for smart farming.
+- 📦 **Amazon ML Challenge 2025:** Secured a top percentile ranking by engineering a multimodal PyTorch & BERT pipeline.
+- 💾 **MariaDB Hackathon 2025:** Built a high-performance database app, optimizing SQL schemas to improve query speed by 30%.
+- 📜 **Certifications:** IBM SkillsBuild Spring Certification Program 2026 (Data Analytics).
 
 ---
 
