@@ -59,26 +59,6 @@
 
 ---
 
-### 📈 Development Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akj1002&theme=dark&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak" width="50%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akj1002&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akj1002&color=FF7A00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
----
-
 ### 📬 Open to SDE Internships
 
 <div align="center">
@@ -89,4 +69,11 @@
   <a href="mailto:abhinavkrjhamzp@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=DROP%20A%20MAIL" alt="Gmail" />
   </a>
+</div>
+
+<br>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" alt="Footer" />
 </div>
