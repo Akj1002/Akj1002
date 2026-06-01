@@ -1,0 +1,47 @@
+# ──────────────────────────────────────────────────────────────
+#   3D Contribution Graph — Auto-generates daily
+#   Place this at: .github/workflows/profile-3d.yml
+# ──────────────────────────────────────────────────────────────
+name: 🌐 Generate 3D Contribution Graph
+on:
+  schedule:
+    - cron: "0 18 * * *"  # Daily at 18:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          SETTING_JSON: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "max_repos": 12,
+              "includeForkedRepos": false,
+              "contributionColorArray": [
+                "#0d1117",
+                "#0f2a4a",
+                "#0e7490",
+                "#38bdf8",
+                "#f97316"
+              ],
+              "backgroundColor": "#0d1117",
+              "backgroundImage": "",
+              "textColor": "#cbd5e1",
+              "type": "Normal"
+            }
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "🌐 chore: update 3D contribution graph [skip ci]"; then
+            git push
+          fi
