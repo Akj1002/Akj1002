@@ -1,7 +1,4 @@
-# ──────────────────────────────────────────────────────────────
-#   Snake Animation — Auto-generates daily
-#   Place this at: .github/workflows/snake.yml
-# ──────────────────────────────────────────────────────────────
+
 name: 🐍 Generate Snake Animation
 on:
   schedule:
