@@ -14,32 +14,21 @@
 
 ---
 
-### 📡 Developer Identity [GET /api/v1/abhinav]
+### 👨‍💻 Executive Overview
 
-```json
-{
-  "developer": {
-    "name": "Abhinav Kumar Jha",
-    "designation": ["Machine Learning Engineer", "Full-Stack Developer"],
-    "education": "B.Tech Data Science @ SRM IST, Ghaziabad (2023-2027)"
-  },
-  "core_competencies": {
-    "ai_architecture": ["TensorFlow", "PyTorch", "XGBoost", "Azure AI", "Google Gemini"],
-    "backend_integration": ["FastAPI", "Node.js", "Express.js"],
-    "data_persistence": ["MongoDB", "MariaDB", "SQLite"]
-  },
-  "career_milestones": [
-    "🏆 Microsoft Imagine Cup 2026 - Selected Competitor",
-    "🚀 NASA Space Apps Challenge 2025 - Top 15 Global Finalist",
-    "📦 Amazon ML Challenge 2025 - Top Percentile",
-    "📝 Published: Optimizing Supply Chain Management Using ML Predictive Analytics"
-  ],
-  "status": {
-    "code": 200,
-    "message": "Actively building Agentic Health AI. Open to SDE & ML Internships."
-  }
-}
-```
+<div align="center">
+  <p>
+    <b>Machine Learning Engineer & Full-Stack Developer</b> bridging the gap between complex predictive models and seamless, world-class user interfaces. Currently a 3rd-year Data Science engineering student at SRM IST, Ghaziabad.
+  </p>
+  <br>
+  <h4>🔥 Career Highlights</h4>
+  <p>
+    🏆 <b>Microsoft Imagine Cup 2026:</b> Selected Competitor (Silent Signal AI)<br>
+    🚀 <b>NASA Space Apps Challenge 2025:</b> Top 15 Global Finalist<br>
+    📦 <b>Amazon ML Challenge 2025:</b> Top Percentile (Multimodal Deep Learning)<br>
+    📝 <b>Research Publication:</b> Authored paper on ML Predictive Analytics
+  </p>
+</div>
 
 ---
 
